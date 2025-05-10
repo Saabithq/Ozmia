@@ -1,4 +1,4 @@
-import Link from 'next/link';
+
 import Image from 'next/image';
 import { CiLocationOn } from 'react-icons/ci';
 import { FiPhone } from "react-icons/fi";
